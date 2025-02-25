@@ -1,5 +1,9 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: blue;
+body {
+    background: black;
+}
+
+p {
+    color: white;
 }
